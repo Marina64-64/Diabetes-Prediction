@@ -1,1 +1,1 @@
-The Diabetes Prediction Model utilizes multiple classifiers, including Random Forest, Logistic Regression, and three additional machine learning algorithms, to analyze patient data and predict the risk of diabetes. With a user-friendly interface, it offers personalized recommendations based on input parameters, providing an accurate and accessible tool for individual risk assessment.
+To Develop a Predictive Model that Accurately Identifies whether an Individual is Likely to have Diabetes based on Key Health Indicators
